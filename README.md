@@ -1,3 +1,13 @@
-# Nitro starter
+# proxy
 
-Look at the [nitro quick start](https://nitro.unjs.io/guide#quick-start) to learn more how to get started.
+## TMDB
+
+```bash
+https://vinaflix-proxy.pages.dev/tmdb
+```
+
+## YTS
+
+```bash
+https://vinaflix-proxy.pages.dev/yts
+```
