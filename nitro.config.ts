@@ -3,8 +3,7 @@ export default defineNitroConfig({
   srcDir: "server",
   preset: "cloudflare-pages",
   routeRules: {
-    '/example': { proxy: 'https://example.com' },
-    '/yts/**': { proxy: 'https://yts.mx/api/v2/**' },
-    '/tmdb/**': { proxy: 'https://api.themoviedb.org/3/**' },
+    '/proxy/yts/**': { proxy: 'https://yts.mx/api/v2/**' },
+    '/proxy/tmdb/**': { proxy: 'https://api.themoviedb.org/3/**' }
   },
 });

@@ -3,11 +3,11 @@
 ## TMDB
 
 ```bash
-https://vinaflix-proxy.pages.dev/tmdb
+https://vinaflix.pages.dev/proxy/tmdb
 ```
 
 ## YTS
 
 ```bash
-https://vinaflix-proxy.pages.dev/yts
+https://vinaflix.pages.dev/proxy/yts
 ```
